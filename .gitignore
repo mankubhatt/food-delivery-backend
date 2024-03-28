@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file (if you're using .env)
+.env
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Exclude sensitive config files
+config/*.json
